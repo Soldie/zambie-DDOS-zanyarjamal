@@ -6,4 +6,4 @@ sudo apt-get install perl
 sudo apt-get install libwww-mechanize-shell-perl
 sudo apt-get install perl-mechanize
 sudo apt-get install slowhttptest
-python Dos_Attacks/setup/su.py
+python setup/su.py
